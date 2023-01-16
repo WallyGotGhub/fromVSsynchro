@@ -1,0 +1,3 @@
+# fromVSsynchro
+
+so much to learn and try ...
